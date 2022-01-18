@@ -1,0 +1,290 @@
+[
+	{
+		"code" : 1000,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/clear-day.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/clear-night.svg",
+		"icon" : 113
+	},
+	{
+		"code" : 1003,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/overcast-day.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/overcast-night.svg",
+		"icon" : 116
+	},
+	{
+		"code" : 1006,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/cloudy.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/cloudy.svg",
+		"icon" : 119
+	},
+	{
+		"code" : 1009,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/overcast-day.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/overcast-night.svg",
+		"icon" : 122
+	},
+	{
+		"code" : 1030,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/mist.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/mist.svg",
+		"icon" : 143
+	},
+	{
+		"code" : 1063,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 176
+	},
+	{
+		"code" : 1066,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-snow.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-snow.svg",
+		"icon" : 179
+	},
+	{
+		"code" : 1069,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 182
+	},
+	{
+		"code" : 1072,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 185
+	},
+	{
+		"code" : 1087,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 200
+	},
+	{
+		"code" : 1114,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 227
+	},
+	{
+		"code" : 1117,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 230
+	},
+	{
+		"code" : 1135,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/fog-day.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/fog-night.svg",
+		"icon" : 248
+	},
+	{
+		"code" : 1147,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 260
+	},
+	{
+		"code" : 1150,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 263
+	},
+	{
+		"code" : 1153,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 266
+	},
+	{
+		"code" : 1168,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 281
+	},
+	{
+		"code" : 1171,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 284
+	},
+	{
+		"code" : 1180,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 293
+	},
+	{
+		"code" : 1183,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 296
+	},
+	{
+		"code" : 1186,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 299
+	},
+	{
+		"code" : 1189,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 302
+	},
+	{
+		"code" : 1192,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 305
+	},
+	{
+		"code" : 1195,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 308
+	},
+	{
+		"code" : 1198,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 311
+	},
+	{
+		"code" : 1201,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 314
+	},
+	{
+		"code" : 1204,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 317
+	},
+	{
+		"code" : 1207,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 320
+	},
+	{
+		"code" : 1210,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 323
+	},
+	{
+		"code" : 1213,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 326
+	},
+	{
+		"code" : 1216,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 329
+	},
+	{
+		"code" : 1219,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 332
+	},
+	{
+		"code" : 1222,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 335
+	},
+	{
+		"code" : 1225,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 338
+	},
+	{
+		"code" : 1237,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 350
+	},
+	{
+		"code" : 1240,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 353
+	},
+	{
+		"code" : 1243,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 356
+	},
+	{
+		"code" : 1246,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 359
+	},
+	{
+		"code" : 1249,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 362
+	},
+	{
+		"code" : 1252,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 365
+	},
+	{
+		"code" : 1255,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 368
+	},
+	{
+		"code" : 1258,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 371
+	},
+	{
+		"code" : 1261,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 374
+	},
+	{
+		"code" : 1264,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 377
+	},
+	{
+		"code" : 1273,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 386
+	},
+	{
+		"code" : 1276,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 389
+	},
+	{
+		"code" : 1279,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 392
+	},
+	{
+		"code" : 1282,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/hurricane.svg",
+		"icon" : 395
+	}
+]

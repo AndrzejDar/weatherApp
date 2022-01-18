@@ -1,18 +1,20 @@
 const path = require("path");
-const entryPath = "03_Dzien_4/03_Async_Await/03_Zadanie_3";
+const entryPath = "./";
 
 module.exports = {
-  entry: `./${entryPath}/js/app.js`,
+  entry: `./${entryPath}/dist/js/app.js`,
   output: {
-    filename: "out.js",
+    filename: "js/out.js",
     path: path.resolve(__dirname, `${entryPath}/build`)
   },
   devServer: {
-    contentBase: path.join(__dirname, `${entryPath}`),
-    publicPath: "/build/",
+    contentBase: path.join(__dirname, `${entryPath}/dist`),
+    publicPath: "/assets/",
     compress: true,
     port: 3001,
-    historyApiFallback: true
+    // historyApiFallback: true,
+    hot: true,
+    watchContentBase: true,
   },
   module: {
     rules: [

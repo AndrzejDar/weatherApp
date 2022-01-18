@@ -1,0 +1,290 @@
+[
+	{
+		"code" : 1000,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/clear-day.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/clear-night.svg",
+		"icon" : 113
+	},
+	{
+		"code" : 1003,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/overcast-day.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/overcast-night.svg",
+		"icon" : 116
+	},
+	{
+		"code" : 1006,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/cloudy.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/cloudy.svg",
+		"icon" : 119
+	},
+	{
+		"code" : 1009,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/overcast-day.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/overcast-night.svg",
+		"icon" : 122
+	},
+	{
+		"code" : 1030,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/mist.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/mist.svg",
+		"icon" : 143
+	},
+	{
+		"code" : 1063,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 176
+	},
+	{
+		"code" : 1066,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-snow.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-snow.svg",
+		"icon" : 179
+	},
+	{
+		"code" : 1069,
+		"day" : "Patchy sleet possible",
+		"night" : "Patchy sleet possible",
+		"icon" : 182
+	},
+	{
+		"code" : 1072,
+		"day" : "Patchy freezing drizzle possible",
+		"night" : "Patchy freezing drizzle possible",
+		"icon" : 185
+	},
+	{
+		"code" : 1087,
+		"day" : "Thundery outbreaks possible",
+		"night" : "Thundery outbreaks possible",
+		"icon" : 200
+	},
+	{
+		"code" : 1114,
+		"day" : "Blowing snow",
+		"night" : "Blowing snow",
+		"icon" : 227
+	},
+	{
+		"code" : 1117,
+		"day" : "Blizzard",
+		"night" : "Blizzard",
+		"icon" : 230
+	},
+	{
+		"code" : 1135,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/fog-day.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/fog-night.svg",
+		"icon" : 248
+	},
+	{
+		"code" : 1147,
+		"day" : "Freezing fog",
+		"night" : "Freezing fog",
+		"icon" : 260
+	},
+	{
+		"code" : 1150,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 263
+	},
+	{
+		"code" : 1153,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 266
+	},
+	{
+		"code" : 1168,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 281
+	},
+	{
+		"code" : 1171,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 284
+	},
+	{
+		"code" : 1180,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 293
+	},
+	{
+		"code" : 1183,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-day-drizzle.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/partly-cloudy-night-drizzle.svg",
+		"icon" : 296
+	},
+	{
+		"code" : 1186,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 299
+	},
+	{
+		"code" : 1189,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 302
+	},
+	{
+		"code" : 1192,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 305
+	},
+	{
+		"code" : 1195,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 308
+	},
+	{
+		"code" : 1198,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 311
+	},
+	{
+		"code" : 1201,
+		"day" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"night" : "https://basmilius.github.io/weather-icons/production/fill/all/rain.svg",
+		"icon" : 314
+	},
+	{
+		"code" : 1204,
+		"day" : "Light sleet",
+		"night" : "Light sleet",
+		"icon" : 317
+	},
+	{
+		"code" : 1207,
+		"day" : "Moderate or heavy sleet",
+		"night" : "Moderate or heavy sleet",
+		"icon" : 320
+	},
+	{
+		"code" : 1210,
+		"day" : "Patchy light snow",
+		"night" : "Patchy light snow",
+		"icon" : 323
+	},
+	{
+		"code" : 1213,
+		"day" : "Light snow",
+		"night" : "Light snow",
+		"icon" : 326
+	},
+	{
+		"code" : 1216,
+		"day" : "Patchy moderate snow",
+		"night" : "Patchy moderate snow",
+		"icon" : 329
+	},
+	{
+		"code" : 1219,
+		"day" : "Moderate snow",
+		"night" : "Moderate snow",
+		"icon" : 332
+	},
+	{
+		"code" : 1222,
+		"day" : "Patchy heavy snow",
+		"night" : "Patchy heavy snow",
+		"icon" : 335
+	},
+	{
+		"code" : 1225,
+		"day" : "Heavy snow",
+		"night" : "Heavy snow",
+		"icon" : 338
+	},
+	{
+		"code" : 1237,
+		"day" : "Ice pellets",
+		"night" : "Ice pellets",
+		"icon" : 350
+	},
+	{
+		"code" : 1240,
+		"day" : "Light rain shower",
+		"night" : "Light rain shower",
+		"icon" : 353
+	},
+	{
+		"code" : 1243,
+		"day" : "Moderate or heavy rain shower",
+		"night" : "Moderate or heavy rain shower",
+		"icon" : 356
+	},
+	{
+		"code" : 1246,
+		"day" : "Torrential rain shower",
+		"night" : "Torrential rain shower",
+		"icon" : 359
+	},
+	{
+		"code" : 1249,
+		"day" : "Light sleet showers",
+		"night" : "Light sleet showers",
+		"icon" : 362
+	},
+	{
+		"code" : 1252,
+		"day" : "Moderate or heavy sleet showers",
+		"night" : "Moderate or heavy sleet showers",
+		"icon" : 365
+	},
+	{
+		"code" : 1255,
+		"day" : "Light snow showers",
+		"night" : "Light snow showers",
+		"icon" : 368
+	},
+	{
+		"code" : 1258,
+		"day" : "Moderate or heavy snow showers",
+		"night" : "Moderate or heavy snow showers",
+		"icon" : 371
+	},
+	{
+		"code" : 1261,
+		"day" : "Light showers of ice pellets",
+		"night" : "Light showers of ice pellets",
+		"icon" : 374
+	},
+	{
+		"code" : 1264,
+		"day" : "Moderate or heavy showers of ice pellets",
+		"night" : "Moderate or heavy showers of ice pellets",
+		"icon" : 377
+	},
+	{
+		"code" : 1273,
+		"day" : "Patchy light rain with thunder",
+		"night" : "Patchy light rain with thunder",
+		"icon" : 386
+	},
+	{
+		"code" : 1276,
+		"day" : "Moderate or heavy rain with thunder",
+		"night" : "Moderate or heavy rain with thunder",
+		"icon" : 389
+	},
+	{
+		"code" : 1279,
+		"day" : "Patchy light snow with thunder",
+		"night" : "Patchy light snow with thunder",
+		"icon" : 392
+	},
+	{
+		"code" : 1282,
+		"day" : "Moderate or heavy snow with thunder",
+		"night" : "Moderate or heavy snow with thunder",
+		"icon" : 395
+	}
+]
