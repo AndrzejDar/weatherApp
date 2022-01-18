@@ -5,7 +5,8 @@ module.exports = {
   entry: `./${entryPath}/dist/js/app.js`,
   output: {
     filename: "js/out.js",
-    path: path.resolve(__dirname, `${entryPath}/build`)
+    path: path.resolve(__dirname, `${entryPath}/build`),
+    publicPath: "/assets/",
   },
   devServer: {
     contentBase: path.join(__dirname, `${entryPath}/dist`),

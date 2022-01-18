@@ -19,51 +19,130 @@ body{
     font-family: 'Poppins', sans-serif;   
 }
 
+h1{
+    font-size: 1rem;
+}
+
+button{
+    border-radius: 5px;
+    border-width: 0px;
+    color: black;
+    background-color: #8ec5fc79;
+    padding: 4px 7px;
+    font-size: 1rem;
+    height: min-content;
+}
+
+button:hover{
+    transform-origin: right;
+    transform: scale(1.1);
+    background-color: #8ec5fcef;
+}
+
 .container{
-    min-width: 200px;
+    min-width: 350px;
     max-width: 1000px;
     margin: 12px;
-    padding: 20px;
-    background-color: whitesmoke;
-    border-radius: 10px;
-    box-shadow: 0 0 20px 2px #333333d8;
+    /* padding: 20px; */
+
 
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
+.top-container{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 2px #333333d8;
+    overflow: hidden;
+}
+
 .menu-container{
-    background-color: cadetblue;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 12px;
+
+}
+
+.menu-container > {
+    flex: 1 1 0px;
+}
+
+.add-btn{
+}
+
+.close-btn{
 }
 
 .query-container{
-    background-color: chocolate;
+    margin: 12px;
+    display: flex;
+    justify-content: space-between;
+    opacity: 1;    
+    height: auto;
+    transition: height 0ms 0ms, opacity 600ms 0ms;       
+}
+
+.query-container form{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    flex-wrap: wrap;
+}
+
+ .input-container{
+    width: 240px;
+    flex: 1 1 0px;
+}
+
+.input-container button{
+    background-color: transparent;
+}
+
+.query-container.hidden{
+    /* display: none;   */
+    margin: 0px;
+    overflow: hidden;
+    opacity: 0;
+    height: 0;
+    transition: height 500ms 400ms, opacity 400ms 0ms;
+    /* transform: translateY(50%) ; */
+
+
+    
 }
 
 .weather-container{
+    /* margin: 12px; */
     /* background-color: rgb(53, 43, 36); */
 }
 
 .weather{
+    padding: 12px;
+    margin-top: 10px;
     text-align: center;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: 0 0 20px 2px #333333d8;
+}
+
+.weather-svg{
+    width: 70%;
+    margin-top: -30px;
+}
+
+.weather-current-temp{
+    margin-top: -60px;
 }
 
 .weather-btn-cont{
-    justify-content: right;
-    justify-content: right;
-    align-items: flex-end;
     text-align: right;
 }
 
 .weather-btn{
-    border-radius: 2px;
-    border-width: 0px;
-    color: black;
-    background-color: #8ec5fc;
-    padding: 4px;
-    align-self: fl;
-
 }
 
 .weather-hour{
@@ -85,6 +164,13 @@ body{
     font-size: small;
     min-width: 6rem;
     flex: 1 1 0px;
-
     text-align: center;
+}
+
+.weather-svg-small{
+    margin-top: -10px;
+}
+
+.weather-forecast-temp{
+    margin-top: -20px;
 }

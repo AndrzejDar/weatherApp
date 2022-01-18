@@ -5,18 +5,40 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>WeatherApp</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+      integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
     <link rel="stylesheet" href="css/style.css" />
   </head>
   <body>
     <div class="container">
-      <div class="menu-container">a</div>
-      <div class="query-container">a</div>
-      <div class="weather-container">
-        
+      <div class="top-container">
+        <div class="menu-container">
+          <h1>Twoja Pogoda <i>czy cuś</i></h1>
+          <button class="add-btn">Dodaj miasto</button>
+        </div>
+        <hr />
+        <hr />
+        <div class="query-container hidden">          
+          <form>
+            <label for="find">Wpisz miasto:</label>
+            <div class="input-container">
+              <input type="text" class="search-input" id="find" />
+              <button class="search-btn">
+                <i class="fas fa-search-location"></i>
+              </button>
+            </div>
+          </form>
+          <button class="close-btn"><i class="fas fa-times"></i></button>
+        </div>
       </div>
+      <div class="weather-container"></div>
     </div>
 
-    <script src="build/js/out.js"></script>
+    <script src="./assets/js/out.js"></script>
   </body>
 </html>
